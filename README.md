@@ -37,3 +37,10 @@ I would recommend doing the exam from a centre, you'll definitely have a smoothe
 ## Further help
   
 If you have any questions or want to discuss the exam, I'd be more than happy to give you a hand. Just reach out to me! :)
+  
+## Useful links
+[Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+
+[Podman Basics Cheat Sheet](https://developers.redhat.com/cheat-sheets/podman-basics) - requires RedHat account
+
+[OCP Cheat Sheet](https://developers.redhat.com/cheat-sheets/red-hat-openshift-container-platform) - requires RedHat account
